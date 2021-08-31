@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+
+.title{
+    font-size: 30px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.note{
+    font-family: 'Anton', sans-serif;
+
+
+font-size: 20px;
+color: darkred;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_image{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed , #volume{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.div_volume{
+    float: right;
+}
